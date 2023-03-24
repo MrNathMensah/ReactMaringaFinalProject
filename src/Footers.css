@@ -1,0 +1,52 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    color: rgba(255, 68, 0, 0.701);
+  }
+  
+  .logo-container {
+    flex: 0.5;
+    
+  }
+  .h3 {
+    color: slateblue;
+  }
+  .logo-container img {
+    width: 70px;
+    height: 60px; 
+    border-radius: 10px;
+    margin-left: 18px;
+    margin-right: 20%;
+    margin-top: 50%;
+    
+}
+  
+  .nav-container {
+    flex: 1;
+  }
+  
+  .contact-container {
+    flex: 3;
+    display: flex;
+  }
+  
+  .call-us-on-container,
+  .accra-centre-container {
+    flex: 1;
+  }
+
+  #copyright {
+    text-align: center;
+    font-weight: bold;
+    background-color: lightblue;
+    color: slateblue;
+    padding-top: 0%;
+    padding-bottom: 15px;
+  }
+ 
+  
+  
+  
+  
+  

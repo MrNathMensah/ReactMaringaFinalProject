@@ -1,0 +1,78 @@
+.container {
+    display: flex;
+    background-color: rgba(255, 68, 0, 0.112);
+    color: slateblue;
+}
+
+.left-side {
+    width: 25%;
+    padding-bottom: 100%;
+    
+}
+.projectrack {
+    text-align: left;
+    padding-left: 48px;
+}
+
+.heading {
+    text-align: center;
+}
+
+
+.select-button {
+    text-align: center;
+    font-size: large;
+    
+}
+select {
+    width: 150px;
+    height: 30px;
+    border-radius: 6px;
+    padding-left: 5px;
+    font-size: bold;
+  }
+option {
+    color: slateblue;
+
+  }
+
+
+.right-side {
+    width: 75%;
+    padding: 20px;
+}
+
+.project-tracker {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border: 1.5px solid rgba(0, 0, 0, 0.477);
+    border-radius: 25px;
+
+}
+
+.project-tracker img {
+    width: 30%;
+    height: 30%;
+    margin-right: 20px;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+.project-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.project-info h2 {
+    margin-bottom: 10px;
+}
+
+.project-info p {
+    margin-bottom: 5px;
+}
+
+
+
+
+

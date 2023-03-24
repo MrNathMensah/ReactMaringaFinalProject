@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "2022 Class",
+        "image": "https://media.istockphoto.com/id/1436453679/photo/graduation-cap-certificate-and-black-man-or-students-on-campus-outdoor-for-university-success.jpg?b=1&s=170667a&w=0&k=20&c=BKZrMZKX6_rA8okaPQBcsV1OfuYt-diiNnuXKE11ttk=",
+        "link": "/Class2022.jsx"
+    },
+    {
+        "id": 2,
+        "title": "2021 Class",
+        "image": "https://media.istockphoto.com/id/1366624112/photo/little-girl-makes-graduating-grandfather-laugh-with-silly-face.jpg?b=1&s=170667a&w=0&k=20&c=911qOPR3lfVjBIxrSS5U3N6r6VS5OVdqtSk998I3bic=",
+        "link": "../utils/Class2021.jsx"
+    },
+    {
+        "id": 3,
+        "title": "2020 Class",
+        "image": "https://media.istockphoto.com/id/1366624125/photo/mother-and-graduating-daughter-pose-cheek-to-cheek-for-photo.jpg?b=1&s=170667a&w=0&k=20&c=NtNnvAX-fZ3rt0DevZZs5cq889YIAfpMuswqz7rFSSo=",
+        "link": "../utils/Class2020.jsx"
+    },
+    {
+        "id": 4,
+        "title": "2019 Class",
+        "image": "https://media.istockphoto.com/id/1392134508/photo/happy-caucasian-graduated-girl-with-her-boyfriend-or-her-brother-on-her-graduation-day.jpg?b=1&s=170667a&w=0&k=20&c=G2K_Euh7cgiYhGLKdR_mQMJ6SV27976ztQDpockXRo8=",
+        "link": "../utils/Class2019.jsx"
+    },
+    {
+        "id": 5,
+        "title": "2018 Class",
+        "image": "https://images.unsplash.com/photo-1594686900103-3c9698dbb31b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fGdyYWR1YXRpb24lMjBwaWN0dXJlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "link": "../utils/Class2018.jsx"
+    },
+    {
+        "id": 6,
+        "title": "2017 Class",
+        "image": "https://images.pexels.com/photos/901964/pexels-photo-901964.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "link": "../utils/Class2017.jsx"
+    },
+    {
+        "id": 7,
+        "title": "2016 Class",
+        "image": "https://images.pexels.com/photos/1139317/pexels-photo-1139317.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "link": "../utils/Class2016.jsx"
+    },
+    {
+        "id": 8,
+        "title": "2015 Class",
+        "image": "https://images.pexels.com/photos/935948/pexels-photo-935948.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "link": "../utils/Class2015.jsx"
+    },
+    {
+        "id": 9,
+        "title": "2014 Class",
+        "image": "https://images.pexels.com/photos/935978/pexels-photo-935978.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "link": "../utils/Class2015.jsx"
+    }
+]
